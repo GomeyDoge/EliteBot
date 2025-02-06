@@ -17,7 +17,6 @@ class EliteBot extends CommandClient {
             caseSensitive: false,
             intents: [
                 'GUILDS',
-                'DIRECT_MESSAGES',
                 'GUILD_MESSAGES'    
             ],
             token: Deno.env.get( "TOKEN" )
