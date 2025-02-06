@@ -25,3 +25,7 @@ First, make sure you have Deno [installed](https://docs.deno.com/runtime/getting
 Next simply download the code from the repo and open the .env file in any editor of your choosing, create a Discord bot from the [Discord Developer Portal](https://discord.com/developers/applications "Discord Developer Portal"). Paste the bot's token and your server ID into their respective locations in the .env file.
 
 Now simply run the batch file and the bot should come online!
+
+## Please note
+
+I am awful at making README files, message me if you need help @realdotty
